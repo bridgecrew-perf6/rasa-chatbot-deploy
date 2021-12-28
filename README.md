@@ -47,7 +47,7 @@ Deploying Rasa Bot over Google Cloud Platform using Docker.
 
 #### Clone the Docker App
 
-- > git clone https://stageyou-dev@bitbucket.org/stageyou-dev/rasa-chatbot.git
+- > git clone git@github.com:shankar-bavan/rasa-chatbot-deploy.git
 - > cd rasa-chatbot
 
 #### Build the Docker app and run the services:
