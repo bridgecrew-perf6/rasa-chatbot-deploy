@@ -52,7 +52,7 @@ Deploying Rasa Bot over Google Cloud Platform using Docker.
 
 #### Build the Docker app and run the services:
 
-- > sudo docker-compose up --build
+- > sudo docker-compose up -d --build
 
 - Check whether the services are up and running using below command:
 - > docker ps -a
